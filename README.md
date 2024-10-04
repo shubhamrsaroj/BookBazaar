@@ -72,7 +72,7 @@ We welcome contributions to BookShelf! Please follow these steps:
 For major changes, please open an issue first to discuss the proposed change.
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made with ❤️ by Shubham R Saroj
 
 [⬆ Back to Top](#-bookshelf-your-personal-library-companion)
 </div>
