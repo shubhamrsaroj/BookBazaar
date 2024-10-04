@@ -1,4 +1,4 @@
-# 📚 BookShelf: Your Personal Library Companion
+# 📚 BookBazaar: Your Personal Library Companion
 
 <div align="center">
 Your digital sanctuary for book lovers
